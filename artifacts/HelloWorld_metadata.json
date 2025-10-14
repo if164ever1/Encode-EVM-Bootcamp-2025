@@ -22,6 +22,19 @@
 				],
 				"stateMutability": "view",
 				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "newText",
+						"type": "string"
+					}
+				],
+				"name": "setText",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
 			}
 		],
 		"devdoc": {
@@ -52,10 +65,11 @@
 	},
 	"sources": {
 		"HelloWorld.sol": {
-			"keccak256": "0xdc757d5d724010ab9a2cace992aa58a617aad23834d1568d7e99fcb66dace1f2",
+			"keccak256": "0xfd2f336af940e16d0008f9792782eee0e58c2d51aa98b19a33165fed892ee000",
+			"license": "MIT",
 			"urls": [
-				"bzz-raw://8474da52c4682a1d6a20b0ade0c399f9a8eeb1224907940a9a8afd3b5346cc4b",
-				"dweb:/ipfs/Qmd3tHnvw43vZsRSHaZLwKCcy2F5NTWWi2wCqjFEgYZWPA"
+				"bzz-raw://b7ec763e788ad33ecf84dc3843d75be5754c47fa1d6974d5c69d68158a8b8fe9",
+				"dweb:/ipfs/Qmdg7RFcQC7dgnfq5rUdctb127ZL4rZBaiEeN2G6nZhuoU"
 			]
 		}
 	},
