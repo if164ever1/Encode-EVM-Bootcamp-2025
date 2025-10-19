@@ -76,7 +76,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"HelloWorld.sol": "HelloWorld"
+			"HelloWorld.sol": "InheritedHelloWorld"
 		},
 		"evmVersion": "prague",
 		"libraries": {},
